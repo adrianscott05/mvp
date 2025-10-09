@@ -1,15 +1,9 @@
-🛠️ Getting Started (Clone to Run)
+Clone or download the project files from my repository
 
-Follow these steps to run the project locally:
-
-1. Clone the Repository
 git clone https://github.com/adrianwilliamscott-jpg/mvp
-cd mvp
 
-2. Install Backend Dependencies
+Run npm install in your terminal to get all of the packages
+
 npm install
-
-3. Start server
-Open a new terminal tab/window:
 
 npm start
